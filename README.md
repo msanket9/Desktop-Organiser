@@ -14,7 +14,7 @@ I am sure that your computer's desktop is cluttered with files. It is very diffi
 
 ### Run
 
-- Copy the folder "UserName" to your Desktop
+- Unzip "Folder.zip" and copy the folder "UserName" present in it, to your Desktop
 
 - Rename the Folder "UserName" to your desired name.
 
