@@ -12,13 +12,19 @@ I am sure that your computer's desktop is cluttered with files. It is very diffi
   pip install watchdog
   ```
 
+### Setup 
+
+**(to be done ONLY ONCE!)**
+
+- Run the following command to create a folder with the required structure.
+
+  ```shell
+  bash createFS.sh
+  ```
+
+- Replace the destination path and folder name in the code to the path and the name of the folder that was created by the above shell script in the desktop.
+
 ### Run
-
-- Unzip "Folder.zip" and copy the folder "UserName" present in it, to your Desktop
-
-- Rename the Folder "UserName" to your desired name.
-
-- Replace the destination path in the code to the path of the folder that you copied to the desktop.
 
 - To run the  program execute the python file by: 
 
