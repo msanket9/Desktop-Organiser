@@ -14,7 +14,7 @@ I am sure that your computer's desktop is cluttered with files. It is very diffi
 
 ### Setup 
 
-**(to be done ONLY ONCE!)**
+**(To be done ONLY ONCE!)**
 
 - Run the following command to create a folder with the required structure.
 
