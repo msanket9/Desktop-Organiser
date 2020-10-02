@@ -31,6 +31,10 @@ I am sure that your computer's desktop is cluttered with files. It is very diffi
   ```shell
   python desktop_organiser.py
   ```
+  
+### Autostart
+
+To autostart the program on boot at desktop_organiser.py to startup software/script
 
   
 
